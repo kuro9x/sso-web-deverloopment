@@ -14,6 +14,7 @@ namespace WebApplicationSSO
     {
         public static void Main(string[] args)
         {
+            string a;
             CreateWebHostBuilder(args).Build().Run();
         }
 
